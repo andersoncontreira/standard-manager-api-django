@@ -1,0 +1,4 @@
+python-dotenv
+django-filter
+markdown
+drf-yasg
